@@ -25,32 +25,3 @@ img {
 	border-color: #1d1dc4;
 }
 
-body {
-	background-color: #7ec0d6;
-}
-
-h1{
-	text-align: center;
-}
-
-h2{
-	text-align: center;
-}
-
-#home1 {
-	width:30%;
-	margin-top: 50px;
-	margin-left:15px;
-
-}
-
-#home2 {
-	width: 30%;
-	margin-top: 50px;
-	margin-left:15px;
-}
-
-.teal-bg {
-	background-color: #316a7d;
-}
-
