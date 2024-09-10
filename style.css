@@ -4,12 +4,24 @@ body {
 h1 {
 	text-align: center;
 	color: #09964d;
-	font-size: 80px;
+	font-size: 50px;
 }
 h2 {
 	text-align: center;
 	color: #09964d;
 	font-size: 30px;
 }
-
+h3 {
+	color: #09964d;
+	font-size: 20px;
+}
+h4 {
+	color: #1d1dc4;
+	font-size: 15px;
+}
+img {
+	width: 20%;
+	border: solid;
+	border-color: #1d1dc4;
+}
 
