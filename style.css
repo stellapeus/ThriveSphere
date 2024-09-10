@@ -1,3 +1,17 @@
+body {
+	background: #7ec0d6;
+}
+h1 {
+	text-align: center;
+	color: #09964d;
+	font-size: 80px;
+}
+h2 {
+	text-align: center;
+	color: #09964d;
+	font-size: 30px;
+}
+
 
 body {
 	background-color: #7ec0d6;
