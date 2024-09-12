@@ -42,6 +42,7 @@ h2{
 	width: 30%;
 	margin-top: 40px;
 	margin-left: 10px;
+
 }
 
 
@@ -52,6 +53,17 @@ h2{
 .text-bg {
 	color: black;
 }
+
+.meditationpictures {
+	width: 30%;
+	margin-left: 100px;
+}
+#brainimage {
+	width: 40%;
+	margin-left: 260px;
+}
+
+	
 
 =======
 >>>>>>> a5a81cff65e1e9ed0f68ba22024b9e5eb2b0e595
