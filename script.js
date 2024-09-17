@@ -4,6 +4,10 @@ $(document).ready(function() {
 	$("#guidedvid").click(function(){
 		$(this).next().toggle();
 	});
+	$(".pageLinks").click(function(){
+		$(this).next().toggle();
+	});
+	
 	$("#buttonM").click(function() {
 		$("#randomM").text(movies[Math.floor(Math.random() * movies.length)]);
 	});
