@@ -18,9 +18,6 @@ $(document).ready(function() {
 	$("#buttonB").click(function() {
 		$("#randomB").text(books[Math.floor(Math.random() * books.length)]);
 	});
-<<<<<<< HEAD
-=======
 
->>>>>>> e7ab992a31db2a56118dc15d40ded4954292a7f3
 	
 });

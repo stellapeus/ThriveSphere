@@ -25,22 +25,6 @@ img {
 	border-color: #316a7d;
 }
 
-<<<<<<< HEAD
-body {
-=======
-	
-	body {
->>>>>>> e7ab992a31db2a56118dc15d40ded4954292a7f3
-	background-color: #7ec0d6;
-}
-
-h1{
-	text-align: center;
-}
-
-h2{
-	text-align: center;
-}
 
 .homepictures {
 	width: 30%;
@@ -67,9 +51,7 @@ h2{
 	margin-left: 260px;
 }
 
-<<<<<<< HEAD
-=======
 .hidden {
 	display: none;
 }
->>>>>>> e7ab992a31db2a56118dc15d40ded4954292a7f3
+
