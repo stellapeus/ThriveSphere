@@ -5,20 +5,28 @@ h1 {
 	text-align: center;
 	color: #09964d;
 	font-size: 50px;
+	font-family: Courier New; 
 }
 h2 {
 	text-align: center;
 	color: #09964d;
 	font-size: 30px;
+	font-family: Brush Script MT;
 }
 h3 {
 	color: #09964d;
 	font-size: 20px;
+	font-family: Courier New;
 }
 h4 {
-	color: #09964d;
-	font-size: 15px;
+	color: black;
+	font-size: 25px;
+	font-family: Brush Script MT;
 }
+p {
+	font-family: Courier New;
+}
+	
 img {
 	width: 20%;
 	border: solid;
@@ -54,13 +62,11 @@ img {
 .hidden {
 	display: none;
 }
-<<<<<<< HEAD
-.bg-light {
-}
-=======
+
+
 
 .carousel-item {
 	margin-left: 170px;
 }
 
->>>>>>> 392ca38e46712e39d92b8d458fb4bf25e212368a
+
