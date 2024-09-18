@@ -54,5 +54,13 @@ img {
 .hidden {
 	display: none;
 }
+<<<<<<< HEAD
 .bg-light {
 }
+=======
+
+.carousel-item {
+	margin-left: 170px;
+}
+
+>>>>>>> 392ca38e46712e39d92b8d458fb4bf25e212368a
