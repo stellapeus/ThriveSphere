@@ -55,3 +55,7 @@ img {
 	display: none;
 }
 
+.carousel-item {
+	margin-left: 170px;
+}
+
